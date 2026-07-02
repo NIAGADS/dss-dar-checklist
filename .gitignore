@@ -1,0 +1,5 @@
+# Nothing built or generated — the site is committed as-is under public/.
+.DS_Store
+*.swp
+*.bak
+*.orig
